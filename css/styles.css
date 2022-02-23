@@ -11560,3 +11560,8 @@ html {
 .masthead {
   padding-bottom: 4rem!important;
 }
+
+.descripcion {
+  margin: auto;
+  text-align: center;
+}
